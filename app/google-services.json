@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "75594067320",
+    "firebase_url": "https://videocallnotify.firebaseio.com",
+    "project_id": "videocallnotify",
+    "storage_bucket": "videocallnotify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75594067320:android:6064e90780a92469a0ac8d",
+        "android_client_info": {
+          "package_name": "com.example.videocallnotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75594067320-3jflob5b6jo6v3duqbag1nh6dmi8ji82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.videocallnotify",
+            "certificate_hash": "c91e2109e3bfec06a196b9ff355695733daa69be"
+          }
+        },
+        {
+          "client_id": "75594067320-9rimptrus8bmu9f8pjm26nrv5kalk5sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVkBG_ezoxKitzL4C4OBbjUxLNmaFv4tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75594067320-9rimptrus8bmu9f8pjm26nrv5kalk5sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
